@@ -1,6 +1,6 @@
 # SCSC
 
-Repo wirh programs and data about the smart contract supply chain.
+Repo with programs and data about the smart contract supply chain.
 
 ## Usage
 
